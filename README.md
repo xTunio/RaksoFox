@@ -10,14 +10,14 @@ I'm young developer from Poland. My passion is computer science, mainly Programm
 
 #### Skils and Experience
 - 💻 React / Preact / Svelte
+- 💡 C / C++ / Embeded Microcontrollers
 - 🤖 GrammY / DiscordJS
 - 📱 React Native↑ / Kotlin↓
-- 🎮 C# / Unity
 
 #### Learning
 - 😸 NestJS / Backend
-- 💡 C / C++ / Embeded Microcontrollers
 - 🦀 Rust
+- 🎮 C# / Unity / Godot
 
 #### Languages and Tools I've used before
 
